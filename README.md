@@ -1,2 +1,3 @@
 # hello-world
-gph 596 hello world practice
+Olga Epshtein - intro for gph 569
+1st year PhD student in Biological Design @ASU
